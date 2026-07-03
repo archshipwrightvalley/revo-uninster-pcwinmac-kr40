@@ -1,4 +1,4 @@
-# 
+# 顶级 Revo Uninstaller 附加组件 Mac OS版 | 最佳 Revo Uninstaller 附加组件 PC Windows版。集成 分卷压缩 和 系统托盘集成，跨平台性能最大化。
 
 
 
